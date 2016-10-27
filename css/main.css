@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 *, *::before, *::after {
@@ -27,7 +27,7 @@ h1 {
   text-align: center;
   font-size: 2rem;
   font-weight: bold;
-  margin:0;
+  margin: 0;
   margin-bottom: 1rem;
   padding: .4rem 0 0;
   color: #fff;
